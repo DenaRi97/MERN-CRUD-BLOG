@@ -1,4 +1,4 @@
-import { Todo } from "../models/todo.model.js" //import del modelo
+import { Todo } from "../models/todoModel.js" //import del modelo
 
 
 //CONTROLADOR METODO GET
